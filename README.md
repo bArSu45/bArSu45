@@ -9,14 +9,14 @@
 
 - 📫 How to reach me: **barsaraniojha@gmail.com**
 
-- 📄 My Resume: [https://drive.google.com/file/d/1bh9b8eJp7NUTFveaC_X3PXfVJfQXg2wC/view](https://drive.google.com/file/d/1bh9b8eJp7NUTFveaC_X3PXfVJfQXg2wC/view)
+- 📄 My Resume: [https://drive.google.com/file/d/1cY3p_NfAlzcLfeZjhMVfWV3H5LmY5CIJ/view?usp=sharing](https://drive.google.com/file/d/1cY3p_NfAlzcLfeZjhMVfWV3H5LmY5CIJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ojhabarsarani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ojhabarsarani" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/barsa-rani-ojha-296474233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/barsa-rani-ojha-296474233/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/dashboard/home?workspace=7b45849d-a0c1-4f94-a75b-14d5ceed61da" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/home?workspace=7b45849d-a0c1-4f94-a75b-14d5ceed61da" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/barsu.barsu.50/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/barsu.barsu.50/" height="30" width="40" /></a>
+<a href="https://twitter.com/ojhabarsarani" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" alt="ojhabarsarani" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/barsa-rani-ojha-296474233/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/barsa-rani-ojha-296474233/" height="30" width="30"/></a>
+<a href="https://codesandbox.com/https://codesandbox.io/dashboard/home?workspace=7b45849d-a0c1-4f94-a75b-14d5ceed61da" target="blank"><img align="center" src="https://ci.codesandbox.io/static/favicon.ico" alt="https://codesandbox.io/dashboard/home?workspace=7b45849d-a0c1-4f94-a75b-14d5ceed61da" height="40" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/barsu.barsu.50/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" alt="https://www.facebook.com/barsu.barsu.50/" height="35" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
