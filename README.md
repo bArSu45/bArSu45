@@ -1,4 +1,4 @@
-[![MasterHead](https://im.ezgif.com/tmp/ezgif-1-6f9b4de047.gif)]()
+[![ezgif com-gif-maker](https://user-images.githubusercontent.com/104006364/216425305-6e6e86bc-54d7-4f55-8e8c-c3a42dfbf9cb.gif)]()
 <h1 align="center">Hi 👋, I'm BARSA RANI OJHA</h1>
 <h3 align="center">Full Stack Web Developer with hands-on experience in building web applications. I’m passionate about UI Designing.</h3>
 <img align="center" width="400" src="https://www.kamlainfrabuild.com/images/feedback.gif" alt="coding"/>
